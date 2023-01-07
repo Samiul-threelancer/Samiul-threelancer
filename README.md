@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samiul-threelancer&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-threelancer&layout=compact&theme=dracula&show_icons=true&langs_count=8)](https://github.com/Samiul-threelancer/github-readme-stats)
